@@ -190,6 +190,7 @@
     <Image Include="deck\yellow_three.jpg" />
     <Image Include="deck\yellow_two.jpg" />
     <Image Include="deck\yellow_zero.jpg" />
+    <Image Include="fondoMenu.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
