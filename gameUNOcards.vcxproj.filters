@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="deck\UNOback.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_zero.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_one.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_two.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_three.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_four.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_five.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_six.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_seven.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_eight.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_nine.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_block.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_reverse.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\yellow_plus2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\color_change.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\plus_four.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_zero.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_one.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_two.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_three.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_four.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_five.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_six.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_seven.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_eight.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_nine.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_block.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_reverse.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\red_plus2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_zero.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_one.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_two.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_three.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_four.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_five.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_six.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_seven.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_eight.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_nine.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_block.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_reverse.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\green_plus2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_zero.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_one.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_two.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_three.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_four.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_five.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_six.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_seven.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_eight.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_nine.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_block.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_reverse.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="deck\blue_plus2.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
