@@ -1,7 +1,5 @@
 #include <iostream>
-//#include <stdio.h>
 #include <SFML/Graphics.hpp>
-//#include <SFML/Audio.hpp>
 using namespace std;
 using namespace sf;
 
@@ -13,9 +11,12 @@ int main() {
 	//background
 	Texture backgTexture;
 	Sprite backg;
-	if (backgTexture.loadFromFile("fondoMenu.png")) cout<<"Error al cragar la textura de fondo"<<endl;
-		backg.setTexture(backgTexture);
-	
+	if (!backgTexture.loadFromFile("fondoMenu.png")) 
+	{
+		system("echo No se pudo cargar la textura &pause");//al usar el comando RenderWindow no se permite la utiilización de cout o pritf
+		//backg.setTexture(backgTexture);
+		return EXIT_FAILURE;
+	}
 
 	while (window.isOpen()) 
 	{
